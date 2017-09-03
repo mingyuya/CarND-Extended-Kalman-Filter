@@ -1,4 +1,4 @@
-# Writeup for P1 of Self-Driving Car Nanodegree : Extended Kalman Filter
+# Writeup for P1 of Self-Driving Car Nanodegree Term2: Extended Kalman Filter
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ### Matt, Min-gyu, Kim
