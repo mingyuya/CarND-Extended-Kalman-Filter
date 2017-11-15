@@ -1,7 +1,7 @@
 # Writeup for P1 of Self-Driving Car Nanodegree Term2: Extended Kalman Filter
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-### Matt, Min-gyu, Kim
+### Matt, MinGyu, Kim
 ---
 
 [image1]: ./kalman_filter_process.png "KF_PROCESS"
@@ -20,7 +20,7 @@ In addition to the typical kalman filter, I have to linearize the inputs from RA
 ### Simulation
 
 The compiled program can communicate with the simulator by [uWebSocket](https://github.com/uNetworking/uWebSockets).
-Here is the captured image during the simulation.
+Here is the captured image during the simulation. The position of the car (green triangle) estimated using the measurements from a sensor fusion (blue and red dots)
 
 ![alt text][image2]
 
